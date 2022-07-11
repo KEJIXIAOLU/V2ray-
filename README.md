@@ -17,7 +17,7 @@ VPS操作系统选择：Debian 10 x64
 ## V2Ray一键安装代码：
 
 
-    bash <(curl -sL https://cdn.jsdelivr.net/gh/Misaka-blog/Xray-script@master/xray.sh)
+    bash <(curl -sL https://raw.githubusercontent.com/eujc/v2ray/main/xray.sh)
 
 
 
